@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C2E5D3&width=300&height=150&section=header&text=Yujung%Kim's%GitHub&fontColor=fff&fontSize=30&fontAlign=70" />
+
 <h1 align="center">김유정의 깃허브</h1>
 <p align="center">Welcome to my Programming World!</h1>
 
