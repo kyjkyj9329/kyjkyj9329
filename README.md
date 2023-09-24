@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my Programming World!</h1>
+<h1 align="center">김유정의 깃허브</h1>
+<p align="center">Welcome to my Programming World!</h1>
 
 - 👨‍💻 포트폴리오 링크 [https://yujungkim-portfolio.netlify.app/contact](https://yujungkim-portfolio.netlify.app/contact)
 
