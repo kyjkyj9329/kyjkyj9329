@@ -1,11 +1,8 @@
-<h1 align="center">Welcome! Yujung Kim 김유정</h1>
-- 👨‍💻 All of my projects are available at [https://yujungkim-portfolio.netlify.app/contact](https://yujungkim-portfolio.netlify.app/contact)
+<h1 align="center">Welcome to my Programming World!</h1>
 
-- 📫 How to reach me **kyjkyj9329@gmail.com**
+- 👨‍💻 포트폴리오 링크 [https://yujungkim-portfolio.netlify.app/contact](https://yujungkim-portfolio.netlify.app/contact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 📫 이메일 **kyjkyj9329@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
