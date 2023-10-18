@@ -3,7 +3,7 @@
 <h1 align="center">김유정의 깃허브</h1>
 <p align="center">Welcome to my Programming World!</h1>
 
-- 👨‍💻 포트폴리오 링크 [https://yujungkim-portfolio.netlify.app](https://yujungkim-portfolio.netlify.app/contact)
+- 👨‍💻 포트폴리오 링크 [https://yujungkim-portfolio.netlify.app](https://yujungkim-portfolio.netlify.app)
 
 - 📫 이메일 **kyjkyj9329@gmail.com**
 
